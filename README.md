@@ -21,4 +21,4 @@ $ rollup -c
 $ rollup index.js -o public/bundle.js -f cjs  //cjs 可更换为amd /  es6 / iife / umd
 ```
 
-3. 查看public文件下打包后的bundle.js文件
+3、查看public文件下打包后的bundle.js文件
