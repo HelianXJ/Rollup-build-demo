@@ -1,0 +1,26 @@
+{
+  "name": "rollup-build",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HelianXJ/Rollup-build-demo.git"
+  },
+  "keywords": [
+    "rollup",
+    "javascript"
+  ],
+  "author": "doris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HelianXJ/Rollup-build-demo/issues"
+  },
+  "homepage": "https://github.com/HelianXJ/Rollup-build-demo#readme",
+  "dependencies": {
+    "rollup": "^0.36.3"
+  }
+}
