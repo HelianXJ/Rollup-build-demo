@@ -1,5 +1,7 @@
 # Rollup-build-demo
 
+### 官网详情  http://rollupjs.org/guide/#what-is-rollup
+
 ### 步骤
 
 1、下载相关依赖包
